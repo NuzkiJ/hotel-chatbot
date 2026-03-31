@@ -1,0 +1,60 @@
+{
+  "id": "25cf7ccb-730c-49a0-94e9-a281796ee3ad",
+  "name": "Breakfast (2.1.6)",
+  "auto": true,
+  "contexts": [
+    "awaiting_breakfast"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_email",
+          "lifespan": 1
+        },
+        {
+          "name": "booking_data",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7954ed36-37a4-4264-8912-5ae82a63f183",
+          "name": "breakfast_option",
+          "required": false,
+          "dataType": "@Breakfast",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Could you provide your email address?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

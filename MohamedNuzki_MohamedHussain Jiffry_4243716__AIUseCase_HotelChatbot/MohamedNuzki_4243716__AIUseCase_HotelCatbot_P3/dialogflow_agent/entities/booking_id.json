@@ -1,0 +1,9 @@
+{
+  "id": "2351b95d-d05b-4ece-913b-2401d6d07b7f",
+  "name": "booking_id",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

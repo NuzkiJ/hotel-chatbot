@@ -1,0 +1,183 @@
+[
+  {
+    "id": "2d777291-6c6f-4e5f-b188-cf8ad192a0ca",
+    "data": [
+      {
+        "text": "I will arrive on ",
+        "userDefined": false
+      },
+      {
+        "text": "April 1st",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53b7afc3-615e-4d6c-905c-8945bc16d80f",
+    "data": [
+      {
+        "text": "Next weekend",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e58b9a2c-5975-41b1-be2c-0d15f8790a24",
+    "data": [
+      {
+        "text": "May 3rd",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4de7150c-d14d-47a7-b9a3-cdb844058f80",
+    "data": [
+      {
+        "text": "On ",
+        "userDefined": false
+      },
+      {
+        "text": "the 12th of July",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "949b90d0-5127-4516-90db-5f35e3777801",
+    "data": [
+      {
+        "text": "December 20",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a517e11e-f39b-4e69-b685-c87dc9d39060",
+    "data": [
+      {
+        "text": "15 August",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39562922-2532-4b0a-a183-9902463477ad",
+    "data": [
+      {
+        "text": "Next Monday",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16bee7ff-4db3-4a6e-a5bb-f5a12cfcd84e",
+    "data": [
+      {
+        "text": "Tomorrow",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02dc842d-508c-4989-a0c6-49f84e5532ef",
+    "data": [
+      {
+        "text": "I want to check in on ",
+        "userDefined": false
+      },
+      {
+        "text": "June 5",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97369ffb-f9ab-4139-950e-bdc2f3fdcdfe",
+    "data": [
+      {
+        "text": "July 10",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b3f3a9a-6704-4815-9810-9da2bd9e8c9f",
+    "data": [
+      {
+        "text": "on ",
+        "userDefined": false
+      },
+      {
+        "text": "15th July 2025",
+        "meta": "@sys.date",
+        "alias": "checkin_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

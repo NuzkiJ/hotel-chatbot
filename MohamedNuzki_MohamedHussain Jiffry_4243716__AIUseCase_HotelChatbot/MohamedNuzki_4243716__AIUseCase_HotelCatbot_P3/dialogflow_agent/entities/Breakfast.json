@@ -1,0 +1,9 @@
+{
+  "id": "ee82cad5-1de3-4794-8859-cb1463ecd5d3",
+  "name": "Breakfast",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,223 @@
+[
+  {
+    "id": "87d4ec22-6bde-4ab5-bed9-287ec8442ec7",
+    "data": [
+      {
+        "text": "booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b7de78c-05ff-4476-9002-afc77c87e7b8",
+    "data": [
+      {
+        "text": "Book a room for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9fd98e3-f3ff-425b-9bf4-e18cfcabe836",
+    "data": [
+      {
+        "text": "book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "276a7e9d-d59f-48d4-a826-986cfb5b3a70",
+    "data": [
+      {
+        "text": "book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f8e4ca9-793d-4363-b5da-ef4af18b3060",
+    "data": [
+      {
+        "text": "book room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca4db115-68e2-40ae-b3bd-b7ca4c28d67b",
+    "data": [
+      {
+        "text": "Room booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec97ba3e-229a-4acb-beb2-037a8753b54b",
+    "data": [
+      {
+        "text": "I need to book a hotel room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2836625-b5aa-4455-92e1-be0acd2e4581",
+    "data": [
+      {
+        "text": "I want to make a reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e82f6641-4498-4f2e-9f89-ee32b101d2c8",
+    "data": [
+      {
+        "text": "Can I book a room?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31017397-f24e-4355-89a9-265567020c81",
+    "data": [
+      {
+        "text": "Reserve a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "262a674b-657f-4d06-ac4e-f0566585cbd1",
+    "data": [
+      {
+        "text": "I need a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "919cde61-a2d7-490f-b229-56b419867904",
+    "data": [
+      {
+        "text": "I would like to reserve a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7fb0be6-efdd-4812-8ef8-a7a673480880",
+    "data": [
+      {
+        "text": "I want to book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97116737-a7c3-4edf-aec1-359e745c5b89",
+    "data": [
+      {
+        "text": "hey there can I book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0d27655-5a7f-40d8-a8e4-2ce2ef601b51",
+    "data": [
+      {
+        "text": "Book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a18336d8-09e4-44b4-8f80-21735c0f7a69",
+    "data": [
+      {
+        "text": "hello I want to book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff0008f8-75d6-4b32-8b24-98c5f70cfce2",
+    "data": [
+      {
+        "text": "I want to book a room can you help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

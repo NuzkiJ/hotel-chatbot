@@ -1,0 +1,61 @@
+{
+  "id": "cbe21ab5-c2f9-4985-9a7c-a099a38e540c",
+  "name": "Email  (2.1.7)",
+  "auto": true,
+  "contexts": [
+    "awaiting_email"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_payment",
+          "lifespan": 1
+        },
+        {
+          "name": "booking_data",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7155364b-8004-4655-8830-210e7c45a9e2",
+          "name": "Email",
+          "required": false,
+          "dataType": "@sys.email",
+          "value": "$Email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What payment method would you prefer? Cash or Card?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

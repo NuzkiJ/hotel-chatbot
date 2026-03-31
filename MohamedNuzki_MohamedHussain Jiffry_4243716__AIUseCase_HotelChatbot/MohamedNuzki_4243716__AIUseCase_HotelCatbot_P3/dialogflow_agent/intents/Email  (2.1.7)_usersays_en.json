@@ -1,0 +1,188 @@
+[
+  {
+    "id": "e6f661cf-aa95-49a6-ad85-54a90bac8c1e",
+    "data": [
+      {
+        "text": "Send it to ",
+        "userDefined": false
+      },
+      {
+        "text": "emily@domain.com",
+        "meta": "@sys.email",
+        "alias": "Email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb8393b2-0ec1-4c8d-bc5d-9619051c8dce",
+    "data": [
+      {
+        "text": "Mark@example.com",
+        "meta": "@sys.email",
+        "alias": "Email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fdabd2e-3624-49c6-9cfd-c79c2494f80a",
+    "data": [
+      {
+        "text": "Contact me via ",
+        "userDefined": false
+      },
+      {
+        "text": "jessica@hotmail.com",
+        "meta": "@sys.email",
+        "alias": "Email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "848662ed-50cc-411a-a65b-484a47f931a5",
+    "data": [
+      {
+        "text": "You can email me at ",
+        "userDefined": false
+      },
+      {
+        "text": "alex@gmail.com",
+        "meta": "@sys.email",
+        "alias": "Email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96fc2e5c-ca6c-4e73-a755-65b5a4b57053",
+    "data": [
+      {
+        "text": "Email is ",
+        "userDefined": false
+      },
+      {
+        "text": "david@example.com",
+        "meta": "@sys.email",
+        "alias": "Email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c8c4448-62bd-44bf-a123-829c0ed2f4b5",
+    "data": [
+      {
+        "text": "My email is ",
+        "userDefined": false
+      },
+      {
+        "text": "sarah@domain.com",
+        "meta": "@sys.email",
+        "alias": "Email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13f84948-06be-49a2-b068-b0d8f492a956",
+    "data": [
+      {
+        "text": "Please send confirmation to ",
+        "userDefined": false
+      },
+      {
+        "text": "lisa@hotmail.com",
+        "meta": "@sys.email",
+        "alias": "Email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d00c311c-7994-48b4-84a1-cbf1faf9b6a5",
+    "data": [
+      {
+        "text": "I can be reached at ",
+        "userDefined": false
+      },
+      {
+        "text": "mike@yahoo.com",
+        "meta": "@sys.email",
+        "alias": "Email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa45e924-2f62-445c-9fbf-fa18db8e1cd3",
+    "data": [
+      {
+        "text": "It\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "anna.smith@gmail.com",
+        "meta": "@sys.email",
+        "alias": "Email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c793e8a-bdbe-4c74-9236-fd806e1eabf9",
+    "data": [
+      {
+        "text": "My email is ",
+        "userDefined": false
+      },
+      {
+        "text": "john@example.com",
+        "meta": "@sys.email",
+        "alias": "Email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

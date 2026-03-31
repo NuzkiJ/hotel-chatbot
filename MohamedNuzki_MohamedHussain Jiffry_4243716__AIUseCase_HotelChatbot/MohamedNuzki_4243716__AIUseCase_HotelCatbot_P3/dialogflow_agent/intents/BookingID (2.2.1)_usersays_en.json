@@ -1,0 +1,184 @@
+[
+  {
+    "id": "2fac614b-c4c4-44c2-8704-3528670cb060",
+    "data": [
+      {
+        "text": "It\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "BER99001",
+        "meta": "@booking_id",
+        "alias": "booking_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f533794-52a3-44f2-9982-05a9a7c01e7f",
+    "data": [
+      {
+        "text": "My booking reference is ",
+        "userDefined": false
+      },
+      {
+        "text": "BER77889",
+        "meta": "@booking_id",
+        "alias": "booking_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cbbf345-f8dc-4fef-98e2-f5173c78935e",
+    "data": [
+      {
+        "text": "ID ",
+        "userDefined": false
+      },
+      {
+        "text": "BER55667",
+        "meta": "@booking_id",
+        "alias": "booking_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f96eefce-65cc-445b-bede-4e59f5e520a9",
+    "data": [
+      {
+        "text": "Booking ID ",
+        "userDefined": false
+      },
+      {
+        "text": "BER33445",
+        "meta": "@booking_id",
+        "alias": "booking_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f79310d-b1d8-4b69-b3c0-7458800ae232",
+    "data": [
+      {
+        "text": "BER99887",
+        "meta": "@booking_id",
+        "alias": "booking_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c815891-1f08-4112-a356-59daf4dfbe11",
+    "data": [
+      {
+        "text": "My reservation number is ",
+        "userDefined": false
+      },
+      {
+        "text": "BER44556",
+        "meta": "@booking_id",
+        "alias": "booking_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a659d689-ffa9-49f4-825c-bdd41e7c6a0e",
+    "data": [
+      {
+        "text": "BER11223",
+        "meta": "@booking_id",
+        "alias": "booking_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92742046-3196-4a73-8015-ed6cc7d90af5",
+    "data": [
+      {
+        "text": "Booking ID ",
+        "userDefined": false
+      },
+      {
+        "text": "BER54321",
+        "meta": "@booking_id",
+        "alias": "booking_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e877dc5-bbfe-40da-9f51-cc1b3944300f",
+    "data": [
+      {
+        "text": "It\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "BER67890",
+        "meta": "@booking_id",
+        "alias": "booking_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23d2e61c-32ff-4acc-9a34-ae44c1fe40c2",
+    "data": [
+      {
+        "text": "My booking ID is ",
+        "userDefined": false
+      },
+      {
+        "text": "BER12345",
+        "meta": "@booking_id",
+        "alias": "booking_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

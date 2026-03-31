@@ -1,0 +1,61 @@
+{
+  "id": "5661d8de-0132-4963-aab7-d832e4f2ae47",
+  "name": "Checkout (2.1.5)",
+  "auto": true,
+  "contexts": [
+    "awaiting_checkout"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_breakfast",
+          "lifespan": 1
+        },
+        {
+          "name": "booking_data",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "116e35e1-8051-4536-b0b1-0577a3f17e17",
+          "name": "checkout_date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$checkout_date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like breakfast included?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

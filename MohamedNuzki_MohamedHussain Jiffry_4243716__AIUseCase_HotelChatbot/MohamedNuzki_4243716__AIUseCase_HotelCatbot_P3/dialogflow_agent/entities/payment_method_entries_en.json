@@ -1,0 +1,30 @@
+[
+  {
+    "value": "credit card",
+    "synonyms": [
+      "credit card",
+      "credit, cc"
+    ]
+  },
+  {
+    "value": "debit card",
+    "synonyms": [
+      "debit card",
+      "debit, dc"
+    ]
+  },
+  {
+    "value": "cash",
+    "synonyms": [
+      "cash",
+      "money"
+    ]
+  },
+  {
+    "value": "Pay by card",
+    "synonyms": [
+      "Pay by card",
+      "card, pay with card"
+    ]
+  }
+]

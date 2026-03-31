@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1c484e5d-a3c0-4435-b2af-625f06cf939b",
+    "data": [
+      {
+        "text": "Yes finalize booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45859e28-3fc7-46a2-82d2-ba02747b223c",
+    "data": [
+      {
+        "text": "Looks good confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d5e4300-6581-4cb9-8ac5-f09e6b7d222e",
+    "data": [
+      {
+        "text": "Yes that\u0027s correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d8d49f4-d323-4646-82b9-39ff946eb2d7",
+    "data": [
+      {
+        "text": "Please confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4933ee27-129f-4143-b419-9193d46cde2a",
+    "data": [
+      {
+        "text": "I confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "130bf9b5-3dc1-4f05-a963-198bc3dfd305",
+    "data": [
+      {
+        "text": "Yes go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3566eae7-2ccd-4f84-8e83-436a262303c3",
+    "data": [
+      {
+        "text": "Book it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef7f3dbf-a41d-4a6c-831e-bd92ae16bf76",
+    "data": [
+      {
+        "text": "Yes please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbff61d0-f049-408b-bec5-87738c22eeee",
+    "data": [
+      {
+        "text": "Confirm booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38018234-c94c-4cf6-9f8f-63d5909e0fd2",
+    "data": [
+      {
+        "text": "Yes confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83c72d73-029f-40cc-882c-30df0ab943a1",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
