@@ -4,10 +4,8 @@ import random
 
 app = Flask(__name__)
 
+# Generate unique booking ID
 
-    # ==========================
-    # Generate unique booking ID
-    # ==========================
 def generate_booking_id():
     return f"BER{random.randint(0,99999):05d}"
 
@@ -17,9 +15,8 @@ def webhook():
     req = request.get_json()
     intent = req["queryResult"]["intent"]["displayName"]
 
-    # ==========================
-    # TRACK BOOKING
-    # ==========================
+# TRACK BOOKING
+
     if intent == "BookingID (2.2.1)":
 
         booking_id = req["queryResult"]["parameters"].get("booking_id")
@@ -43,16 +40,14 @@ def webhook():
             Email: {row[7]}
             Payment Method: {row[8]}
 
-            Your reservation is confirmed.
-            """
+            Your reservation is confirmed."""
         else:
             message = "Sorry, we could not find a booking with that ID."
 
         return jsonify({"fulfillmentText": message})
 
-    # ==========================
-    # GET DATA FROM CONTEXT
-    # ==========================
+# GET DATA FROM CONTEXT
+
     contexts = req["queryResult"].get("outputContexts", [])
     booking_params = {}
 
@@ -82,9 +77,9 @@ def webhook():
     checkin_date = checkin_date.split("T")[0] if checkin_date else ""
     checkout_date = checkout_date.split("T")[0] if checkout_date else ""
 
-    # ==========================
-    # CONFIRM BOOKING (ONLY YES)
-    # ==========================
+
+# CONFIRM BOOKING (ONLY YES)
+
     if intent == "Confirm (2.1.9)":
 
         booking_id = generate_booking_id()
@@ -101,31 +96,29 @@ def webhook():
 
         message = f"""Your reservation has been successfully booked!
 
-Booking ID: {booking_id}
+                    Booking ID: {booking_id}
 
-A confirmation email with your Booking ID will be sent shortly.
+                    A confirmation email with your Booking ID will be sent shortly.
 
-Thank you for choosing Grand Ceylonara Berlin!
-"""
+                    Thank you for choosing Grand Ceylonara Berlin!"""
 
         return jsonify({"fulfillmentText": message})
 
-    # ==========================
-    # DEFAULT → SHOW CONFIRMATION
-    # ==========================
+
+# DEFAULT → SHOW CONFIRMATION
+
     message = f"""Please confirm your reservation:
 
-Name: {name}
-Guests: {guests}
-Room Type: {room_type}
-Check-in: {checkin_date}
-Check-out: {checkout_date}
-Breakfast: {breakfast_option}
-Email: {email}
-Payment Method: {payment_method}
+                Name: {name}
+                Guests: {guests}
+                Room Type: {room_type}
+                Check-in: {checkin_date}
+                Check-out: {checkout_date}
+                Breakfast: {breakfast_option}
+                Email: {email}
+                Payment Method: {payment_method}
 
-Do you confirm the booking?
-"""
+                Do you confirm the booking?"""
 
     return jsonify({"fulfillmentText": message})
 
