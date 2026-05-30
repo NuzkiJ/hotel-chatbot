@@ -4,6 +4,10 @@ import random
 
 app = Flask(__name__)
 
+
+    # ==========================
+    # Generate unique booking ID
+    # ==========================
 def generate_booking_id():
     return f"BER{random.randint(0,99999):05d}"
 
@@ -30,17 +34,17 @@ def webhook():
         if row:
             message = f"""Thank you. Here are your booking details.
 
-Name: {row[1]}
-Guests: {int(row[2])}
-Room Type: {row[3]}
-Check-in: {row[4]}
-Check-out: {row[5]}
-Breakfast: {row[6]}
-Email: {row[7]}
-Payment Method: {row[8]}
+            Name: {row[1]}
+            Guests: {int(row[2])}
+            Room Type: {row[3]}
+            Check-in: {row[4]}
+            Check-out: {row[5]}
+            Breakfast: {row[6]}
+            Email: {row[7]}
+            Payment Method: {row[8]}
 
-Your reservation is confirmed.
-"""
+            Your reservation is confirmed.
+            """
         else:
             message = "Sorry, we could not find a booking with that ID."
 
